@@ -3,13 +3,13 @@
 ## 1. リポジトリをクローンする
 
 ```bash
-git clone https://github.com/yuyuyu2118/dalle3-tutorial-envSetting
+git clone https://github.com/yuyuyu2118/dalle3-tutorial-dalle3
 ```
 
 ## 2. ディレクトリに移動する
 
 ```bash
-cd dalle3-tutorial-envSetting
+cd dalle3-tutorial-dalle3
 ```
 
 ## 3. nodeを初期化する
@@ -36,4 +36,4 @@ npm install express openai cors
 
 ```bash
 npm start
-```# dalle3-tutorial-dalle3
+```
